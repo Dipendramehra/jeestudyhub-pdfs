@@ -1,22 +1,512 @@
 {
-  "NDA": [
-    {
-      "title": "NDA NA I 25 General Ability Test",
-      "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP-NDA-NA-I-25-GENERAL-ABILITY-TEST-150425.pdf"
-    },
-    {
-      "title": "NDA NA I 25 Mathematics",
-      "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP-NDA-NA-I-25-MATHEMATICS-150425.pdf"
-    }
-  ],
-  "GATE_ME": [
-    {
-      "title": "GATE ME 2017 Paper 1",
-      "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME1-2017.pdf"
-    },
-    {
-      "title": "GATE ME 2017 Paper 2",
-      "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2-2017.pdf"
-    }
-  ]
+    "GATE_CE_CE": [
+        {
+            "title": "CE1-2017",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE1-2017.pdf"
+        },
+        {
+            "title": "CE1-2018",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE1-2018.pdf"
+        },
+        {
+            "title": "CE1-2019",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE1-2019.pdf"
+        },
+        {
+            "title": "CE1-2020",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE1-2020.pdf"
+        },
+        {
+            "title": "CE1-2021",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE1-2021.pdf"
+        },
+        {
+            "title": "CE1-2022",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE1-2022.pdf"
+        },
+        {
+            "title": "CE1-2023",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE1-2023.pdf"
+        },
+        {
+            "title": "CE12024",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE12024.pdf"
+        },
+        {
+            "title": "CE12025",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE12025.pdf"
+        },
+        {
+            "title": "CE2-2017",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2-2017.pdf"
+        },
+        {
+            "title": "CE2-2018",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2-2018.pdf"
+        },
+        {
+            "title": "CE2-2019",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2-2019.pdf"
+        },
+        {
+            "title": "CE2-2020",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2-2020.pdf"
+        },
+        {
+            "title": "CE2-2021",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2-2021.pdf"
+        },
+        {
+            "title": "CE2-2022",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2-2022.pdf"
+        },
+        {
+            "title": "CE2-2023",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2-2023.pdf"
+        },
+        {
+            "title": "CE2007",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2007.pdf"
+        },
+        {
+            "title": "CE2008",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2008.pdf"
+        },
+        {
+            "title": "CE2009",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2009.pdf"
+        },
+        {
+            "title": "CE2010",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2010.pdf"
+        },
+        {
+            "title": "CE2011",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2011.pdf"
+        },
+        {
+            "title": "CE2012",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2012.pdf"
+        },
+        {
+            "title": "CE2013",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2013.pdf"
+        },
+        {
+            "title": "CE2014",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2014.pdf"
+        },
+        {
+            "title": "CE2015",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2015.pdf"
+        },
+        {
+            "title": "CE2016",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE2016.pdf"
+        },
+        {
+            "title": "CE22024",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE22024.pdf"
+        },
+        {
+            "title": "CE22025",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/CE/CE/CE22025.pdf"
+        }
+    ],
+    "GATE_EE_EE": [
+        {
+            "title": "EE1-2017",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE1-2017.pdf"
+        },
+        {
+            "title": "EE2-2017",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2-2017.pdf"
+        },
+        {
+            "title": "EE2007",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2007.pdf"
+        },
+        {
+            "title": "EE2008",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2008.pdf"
+        },
+        {
+            "title": "EE2009",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2009.pdf"
+        },
+        {
+            "title": "EE2010",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2010.pdf"
+        },
+        {
+            "title": "EE2011",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2011.pdf"
+        },
+        {
+            "title": "EE2012",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2012.pdf"
+        },
+        {
+            "title": "EE2013",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2013.pdf"
+        },
+        {
+            "title": "EE2014",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2014.pdf"
+        },
+        {
+            "title": "EE2015",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2015.pdf"
+        },
+        {
+            "title": "EE2016",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2016.pdf"
+        },
+        {
+            "title": "EE2018",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2018.pdf"
+        },
+        {
+            "title": "EE2019",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2019.pdf"
+        },
+        {
+            "title": "EE2020",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2020.pdf"
+        },
+        {
+            "title": "EE2021",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2021.pdf"
+        },
+        {
+            "title": "EE2022",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2022.pdf"
+        },
+        {
+            "title": "EE2023",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2023.pdf"
+        },
+        {
+            "title": "EE2024",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2024.pdf"
+        },
+        {
+            "title": "EE2025",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/EE/EE/EE2025.pdf"
+        }
+    ],
+    "GATE_ME_ME": [
+        {
+            "title": "ME1-2017",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME1-2017.pdf"
+        },
+        {
+            "title": "ME1-2018",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME1-2018.pdf"
+        },
+        {
+            "title": "ME1-2019",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME1-2019.pdf"
+        },
+        {
+            "title": "ME1-2020",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME1-2020.pdf"
+        },
+        {
+            "title": "ME1-2021",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME1-2021.pdf"
+        },
+        {
+            "title": "ME1-2022",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME1-2022.pdf"
+        },
+        {
+            "title": "ME2-2017",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2-2017.pdf"
+        },
+        {
+            "title": "ME2-2018",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2-2018.pdf"
+        },
+        {
+            "title": "ME2-2019",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2-2019.pdf"
+        },
+        {
+            "title": "ME2-2020",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2-2020.pdf"
+        },
+        {
+            "title": "ME2-2021",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2-2021.pdf"
+        },
+        {
+            "title": "ME2-2022",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2-2022.pdf"
+        },
+        {
+            "title": "ME2007",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2007.pdf"
+        },
+        {
+            "title": "ME2008",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2008.pdf"
+        },
+        {
+            "title": "ME2009",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2009.pdf"
+        },
+        {
+            "title": "ME2010",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2010.pdf"
+        },
+        {
+            "title": "ME2011",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2011.pdf"
+        },
+        {
+            "title": "ME2012",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2012.pdf"
+        },
+        {
+            "title": "ME2013",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2013.pdf"
+        },
+        {
+            "title": "ME2014",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2014.pdf"
+        },
+        {
+            "title": "ME2015",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2015.pdf"
+        },
+        {
+            "title": "ME2016",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2016.pdf"
+        },
+        {
+            "title": "ME2023",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2023.pdf"
+        },
+        {
+            "title": "ME2024",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2024.pdf"
+        },
+        {
+            "title": "ME2025",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/GATE/ME/ME/ME2025.pdf"
+        }
+    ],
+    "NDA": [
+        {
+            "title": "QP-NDA-NA-I-25-GENERAL-ABILITY-TEST-150425",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP-NDA-NA-I-25-GENERAL-ABILITY-TEST-150425.pdf"
+        },
+        {
+            "title": "QP-NDA-NA-I-25-MATHEMATICS-150425",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP-NDA-NA-I-25-MATHEMATICS-150425.pdf"
+        },
+        {
+            "title": "QP-NDA-NA-II-24-GENERAL-ABILITY-TEST-020924",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP-NDA-NA-II-24-GENERAL-ABILITY-TEST-020924.pdf"
+        },
+        {
+            "title": "QP-NDA-NA-II-24-MATHEMATICS-020924",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP-NDA-NA-II-24-MATHEMATICS-020924.pdf"
+        },
+        {
+            "title": "QP-NDANA-II-25-GENERAL-ABILITY-TEST-150925",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP-NDANA-II-25-GENERAL-ABILITY-TEST-150925.pdf"
+        },
+        {
+            "title": "QP-NDANA-II-25-MATHEMATICS-150925",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP-NDANA-II-25-MATHEMATICS-150925.pdf"
+        },
+        {
+            "title": "QP NDANAI2024 GENERAL-ABILITY-TEST 22042024",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP_NDANAI2024_GENERAL-ABILITY-TEST_22042024.pdf"
+        },
+        {
+            "title": "QP NDANAI2024 MATHEMATICS 22042024",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/NDA/QP_NDANAI2024_MATHEMATICS_22042024.pdf"
+        }
+    ],
+    "RRB JE": [
+        {
+            "title": "je-1",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/je-1.pdf"
+        },
+        {
+            "title": "je-2",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/je-2.pdf"
+        },
+        {
+            "title": "je-3",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/je-3.pdf"
+        },
+        {
+            "title": "je-4",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/je-4.pdf"
+        },
+        {
+            "title": "je-5 (1)",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/je-5 (1).pdf"
+        },
+        {
+            "title": "je-5",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/je-5.pdf"
+        },
+        {
+            "title": "je-6",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/je-6.pdf"
+        },
+        {
+            "title": "je-8",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/je-8.pdf"
+        },
+        {
+            "title": "RRB-JE-CBT-1-Paper-Answer-Key-\u2013-19-02-2026-\u2013-S1-English",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/RRB JE/RRB-JE-CBT-1-Paper-Answer-Key-\u2013-19-02-2026-\u2013-S1-English.pdf"
+        }
+    ],
+    "SSC JE": [
+        {
+            "title": "Civil Engineering-2016 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering-2016_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2017 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2017_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2018 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2018_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2019 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2019_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2020 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2020_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2021 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2021_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2022 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2022_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2023 Paper 2 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2023_Paper_2_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2023 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2023_Question_Paper.pdf"
+        },
+        {
+            "title": "Civil Engineering 2024 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Civil_Engineering_2024_Question_Paper.pdf"
+        },
+        {
+            "title": "Electrical Engineering 2016 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Electrical_Engineering_2016_Question_Paper.pdf"
+        },
+        {
+            "title": "Electrical Engineering 2018 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Electrical_Engineering_2018_Question_Paper.pdf"
+        },
+        {
+            "title": "Electrical Engineering 2019 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Electrical_Engineering_2019_Question_Paper.pdf"
+        },
+        {
+            "title": "Electrical Engineering 2020 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Electrical_Engineering_2020_Question_Paper.pdf"
+        },
+        {
+            "title": "Electrical Engineering 2021 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Electrical_Engineering_2021_Question_Paper.pdf"
+        },
+        {
+            "title": "Electrical Engineering 2022 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Electrical_Engineering_2022_Question_Paper.pdf"
+        },
+        {
+            "title": "Electrical Engineering 2023 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Electrical_Engineering_2023_Question_Paper.pdf"
+        },
+        {
+            "title": "Electrical Engineering Paper 2 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Electrical_Engineering_Paper_2_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2015 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2015_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2016 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2016_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2017 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2017_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2018 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2018_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2019 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2019_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2020 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2020_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2021 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2021_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2023 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2023_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering 2024 Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_2024_Question_Paper.pdf"
+        },
+        {
+            "title": "Mechanical Engineering Question Paper",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/Mechanical_Engineering_Question_Paper.pdf"
+        },
+        {
+            "title": "SSC JE Previous Year Question Papers",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/SSC_JE_Previous_Year_Question_Papers.pdf"
+        },
+        {
+            "title": "SSC JE Previous Year Question Papers PDF",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/SSC JE/SSC_JE_Previous_Year_Question_Papers_PDF.pdf"
+        }
+    ],
+    "UPSC CSE": [
+        {
+            "title": "QP-CSP-24-GENERAL-STUDIES-PAPER-I-180624",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/UPSC CSE/QP-CSP-24-GENERAL-STUDIES-PAPER-I-180624.pdf"
+        },
+        {
+            "title": "QP-CSP-24-GENERAL-STUDIES-PAPER-II-180624",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/UPSC CSE/QP-CSP-24-GENERAL-STUDIES-PAPER-II-180624.pdf"
+        },
+        {
+            "title": "QP-CSP-25-GENERAL-STUDIES-PAPER-I-26052025",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/UPSC CSE/QP-CSP-25-GENERAL-STUDIES-PAPER-I-26052025.pdf"
+        },
+        {
+            "title": "QP-CSP-25-GENERAL-STUDIES-PAPER-II-26052025",
+            "url": "https://raw.githubusercontent.com/Dipendramehra/jeestudyhub-pdfs/main/UPSC CSE/QP-CSP-25-GENERAL-STUDIES-PAPER-II-26052025.pdf"
+        }
+    ]
 }
